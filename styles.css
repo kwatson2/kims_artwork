@@ -1,0 +1,35 @@
+.heading
+{
+	color:white;
+	font-size:40px;
+	
+	border-style:solid;
+	border-width:medium;
+	
+	padding-left:50px;
+	padding-top:30px;
+	padding-bottom:30px;
+	padding-right:50px;
+	padding: 30px 50px;
+
+	background-color:black;
+
+}
+
+.description
+{
+	color:grey;
+	font-size:20px;
+	background-color:orange;
+}
+
+.image
+{
+	width:400px
+}
+
+.shapes
+{
+	width:400px;
+	height:400px;
+}
